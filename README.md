@@ -29,7 +29,7 @@
 
 <h4 align="center">
   
-Credit: [Ray0Emma](https://github.com/Ray0Emma)
+Credit: [Mehmet](https://github.com/Ray0Emma)
 
 Last Edited on: 29/10/2021.
   
