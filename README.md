@@ -24,13 +24,12 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MehmetArslan035&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ray0emma&theme=gruvbox&hide_border=true&area=true)
 
 
 <h4 align="center">
   
 Credit: [Mehmet](https://github.com/Ray0Emma)
 
-Last Edited on: 29/10/2021.
+Last Edited on: 13/06/2024.
   
 </h4>
