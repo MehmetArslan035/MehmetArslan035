@@ -1,4 +1,4 @@
-# Hi, I'm Waren Gonzaga (:coffee::computer::bulb::heart:)
+# Hi, I'm Mehmet (:coffee::computer::bulb::heart:)
 
 I'm a part time open source developer and cybersecurity researcher from the Philippines!
 
@@ -65,24 +65,17 @@ Wanna see some of my future projects? Join today!
 </details>
 
 <details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
-
-</details>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetArslan035&show_icons=true&theme=radical)
 
 <!-- markdownlint-enable MD033 -->
 
 ---
 
-:computer: Made with :heart: by **Waren Gonzaga** with **YHWH** :pray:
+:computer: Made with :heart: by **Mehmet** with **YHWH** :pray:
 
-[personal website]: https://warengonzaga.com
-[business website]: https://warengonzaga.co
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
 [instagram]: https://instagram.com/warengonzagaofficial
-[youtube]: https://youtube.com/warengonzaga
+
 
 ----
 Credits: [WarenGonzaga](https://github.com/WarenGonzaga)
